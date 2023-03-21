@@ -1,0 +1,26 @@
+{
+  "name": "contagem-regressiva",
+  "version": "1.0.0",
+  "description": "Landing page para eventos",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html src/styles/main.scss src/scripts/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Belfegorrr/Contagem-regressiva.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Belfegorrr/Contagem-regressiva/issues"
+  },
+  "homepage": "https://github.com/Belfegorrr/Contagem-regressiva#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.3",
+    "parcel": "^2.8.3",
+    "sharp": "^0.31.3"
+  }
+}
