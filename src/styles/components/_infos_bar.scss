@@ -3,10 +3,12 @@
   background-color: #fff;
   display: flex;
   justify-content: space-between;
+  align-items: center;
 
   &__infos {
     display: flex;
     gap: 40px;
+    margin: 15px;
     
     &__item {
       font-size: 14px;
